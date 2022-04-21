@@ -1,0 +1,109 @@
+.mediaViewInfo {
+    --web-view-name: Version 4;
+    --web-view-id: Version_4;
+    --web-enable-scale-up: true;
+    --web-scale-on-resize: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+    --web-page-font: Source Sans Pro, Fira Sans, Inter, sans-serif, Public Sans;
+}
+
+:root {
+    --web-view-ids: Version_4;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+#Version_4 {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    font-family: Source Sans Pro, Fira Sans, Inter, sans-serif, Public Sans;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    --web-view-name: Version 4;
+    --web-view-id: Version_4;
+    --web-enable-scale-up: true;
+    --web-scale-on-resize: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+    --web-page-font: Source Sans Pro, Fira Sans, Inter, sans-serif, Public Sans;
+}
+
+#header {
+    left: 1063px;
+    top: 397px;
+    position: absolute;
+    overflow: visible;
+    width: 697px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Fira Sans, Source Sans Pro, Fira Sans, Inter, sans-serif, Public Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    color: rgba(17, 17, 38, 1);
+}
+
+#text {
+    left: 1063px;
+    top: 533px;
+    position: absolute;
+    overflow: visible;
+    width: 754px;
+    white-space: nowrap;
+    line-height: 32px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Fira Sans, Source Sans Pro, Fira Sans, Inter, sans-serif, Public Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(17, 17, 38, 1);
+}
+
+#n__The_ActivMenu_Team {
+    left: 1063px;
+    top: 665px;
+    position: absolute;
+    overflow: visible;
+    width: 180px;
+    white-space: nowrap;
+    line-height: 28px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Fira Sans, Source Sans Pro, Fira Sans, Inter, sans-serif, Public Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(128, 128, 128, 1);
+}
+
+#background {
+    fill: rgba(254, 240, 232, 1);
+}
+
+.background {
+    position: absolute;
+    overflow: visible;
+    width: 960px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+}
+
+#illustration {
+    position: absolute;
+    width: 760px;
+    height: 855px;
+    left: 100px;
+    top: 113px;
+    overflow: visible;
+}
+
+@media screen and (min-width: 720px) {}
